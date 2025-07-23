@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 /**
  * Types
  */
@@ -13,6 +13,7 @@ const numberVar = 3;
 const bigIntVar = BigInt(999999);
 const booleanVar = true;
 const symbolVar = Symbol(1);
+
 const nullVar = null;
 const undefinedVar = undefined;
 /**

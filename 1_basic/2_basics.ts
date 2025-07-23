@@ -49,5 +49,5 @@ let anyType2: any = unknownType;
 /**
  * 리스트 타입
  */
-const koreanGirlGroup : string[] = ['아이브', '레드벨벳', '블랙핑크'];
+const koreanGirlGroup: string[] = ['아이브', '레드벨벳', '블랙핑크'];
 const booleanList: boolean[] = [true, false, false, true];
